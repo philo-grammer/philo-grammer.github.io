@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: Philo-Grammer's Blog
+description: 프로그래밍, 독서, 운동, 소프트스킬...
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 gems: [jekyll-paginate, redcarpet]
@@ -9,9 +9,9 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://philo-grammer.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://philo-grammer.github.io'
+#google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'http://philo-grammer.github.io'
+url:            'https://philo-grammer.github.io/'
 author:         'philo-grammer'
